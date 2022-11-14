@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kat1002
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning at University
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.facebook.com/katdemon.02/
 
