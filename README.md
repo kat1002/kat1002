@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kat1002&label=Profile%20views&color=0e75b6&style=flat" alt="kat1002" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning at **FPT University**
 
 - 💬 Ask me about **C/C++, Unity, Godot,...**
 
